@@ -1,0 +1,12 @@
+{
+    "name": "SimpleSelectAllButton",
+    "version": "1",
+				"ignore": [
+					".DS_Store",
+					".git",
+					".gitignore"
+				],
+				"dependencies": {
+					"jquery": ">=2.0.0",
+				}
+}
