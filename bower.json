@@ -1,13 +1,20 @@
 {
-  "name": "SimpleSelectAllButton",
-  "version": "1",
-  "ignore": [
-  ".DS_Store",
-  ".git",
-  ".gitignore"
-  ".editorconfig"
+  "name": "simpleSelectAllButton",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Zofie/simpleSelectAllButton",
+  "authors": [
+    "Sophie de Brabander <hi@zofie.be>"
   ],
-  "dependencies": {
-   "jquery": ">=2.0.0",
- }
+  "description": "A simple Select all button for checkboxes",
+  "main": "js/selectAll.js",
+  "keywords": [
+    "Javascript"
+  ],
+  "ignore": [
+  "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
